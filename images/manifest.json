@@ -7,5 +7,87 @@
             "All images loaded in alextxn/TMDRA_test project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://alextxn.github.io/TMDRA_test/images/sadness/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "sadness"
+                ]
+            },
+            "height": 382,
+            "width": 603,
+            "items": [
+                {
+                    "id": "https://alextxn.github.io/TMDRA_test/images/sadness/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://alextxn.github.io/TMDRA_test/images/sadness/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://alextxn.github.io/TMDRA_test/images/sadness/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 12
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 24
+                                            },
+                                            {
+                                                "width": 76,
+                                                "height": 48
+                                            },
+                                            {
+                                                "width": 151,
+                                                "height": 96
+                                            },
+                                            {
+                                                "width": 302,
+                                                "height": 191
+                                            },
+                                            {
+                                                "width": 603,
+                                                "height": 382
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 603,
+                                        "@id": "https://alextxn.github.io/TMDRA_test/images/sadness",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 382,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://alextxn.github.io/TMDRA_test/images/sadness/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
