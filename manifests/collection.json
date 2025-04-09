@@ -1,0 +1,13 @@
+{
+  "id" : "https://alextxn.github.io/TMDRA_test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in alextxn/TMDRA_test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://alextxn.github.io/TMDRA_test/manifests/manifest.json",
+    "label" : "tmdra_test"
+  } ]
+}
